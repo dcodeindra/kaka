@@ -1,14 +1,20 @@
 [
   {
+    "username": "dcodeindra",
+    "password": "iniowner",
+    "role": "owner",
+    "limit": "unlimited"
+  },
+  {
     "username": "inn",
-    "password": "farida"
+    "password": "farida",
+    "role": "medium",
+    "limit": 30
   },
   {
-    "username": "user",
-    "password": "secretpassword"
-  },
-  {
-    "username": "ahmad",
-    "password": "finskeren"
+    "username": "userbiasa",
+    "password": "password123",
+    "role": "medium",
+    "limit": 15
   }
 ]
