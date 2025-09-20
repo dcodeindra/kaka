@@ -16,5 +16,11 @@
     "password": "password123",
     "role": "medium",
     "limit": 15
+  },
+  {
+    "username": "innd",
+    "password": "indra123",
+    "role": "medium",
+    "limit": 38
   }
 ]
