@@ -3,7 +3,9 @@
     "username": "dcodeindra",
     "password": "iniowner1",
     "role": "owner",
-    "limit": "unlimited"
+    "limit": "unlimited",
+    "status": "online",
+    "lastSeen": "2025-09-21T03:52:22.082Z"
   },
   {
     "username": "inn",
