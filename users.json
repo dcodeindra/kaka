@@ -12,7 +12,8 @@
     "password": "farida",
     "role": "medium",
     "limit": 30,
-    "blacklistedFeatures": []
+    "blacklistedFeatures": [],
+    "isMuted": true
   },
   {
     "username": "userbiasa",
