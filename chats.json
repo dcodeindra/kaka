@@ -10,5 +10,12 @@
     "message": "pp",
     "timestamp": "2025-09-21T04:09:22.914Z",
     "chatId": "global"
+  },
+  {
+    "sender": "indra",
+    "message": "Cek",
+    "timestamp": "2025-09-21T10:59:01.437Z",
+    "chatId": "indra-innd",
+    "receiver": "innd"
   }
 ]
