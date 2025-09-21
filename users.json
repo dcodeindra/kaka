@@ -12,9 +12,7 @@
     "password": "farida",
     "role": "medium",
     "limit": 30,
-    "blacklistedFeatures": [
-      "nopol"
-    ]
+    "blacklistedFeatures": []
   },
   {
     "username": "userbiasa",
