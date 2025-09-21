@@ -13,7 +13,7 @@
     "role": "medium",
     "limit": 30,
     "blacklistedFeatures": [],
-    "isMuted": true
+    "isMuted": false
   },
   {
     "username": "userbiasa",
