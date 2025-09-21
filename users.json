@@ -11,7 +11,10 @@
     "username": "inn",
     "password": "farida",
     "role": "medium",
-    "limit": 30
+    "limit": 30,
+    "blacklistedFeatures": [
+      "nopol"
+    ]
   },
   {
     "username": "userbiasa",
