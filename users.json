@@ -20,7 +20,8 @@
     "username": "userbiasa",
     "password": "password123",
     "role": "medium",
-    "limit": 15
+    "limit": 15,
+    "isMuted": true
   },
   {
     "username": "innd",
