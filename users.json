@@ -21,7 +21,7 @@
     "password": "password123",
     "role": "medium",
     "limit": 15,
-    "isMuted": true
+    "isMuted": false
   },
   {
     "username": "innd",
